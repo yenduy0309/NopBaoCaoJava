@@ -1,0 +1,713 @@
+2024-11-14 08:29:35.727 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-11-14 08:30:23.566 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-11-14 08:30:24.374 +07:00 [INF] HTTP GET /api/Book responded 401 in 763.1357 ms
+2024-11-14 08:31:04.904 +07:00 [INF] HTTP POST /api/Auth/login responded 200 in 428.1826 ms
+2024-11-14 08:31:33.845 +07:00 [INF] HTTP GET /api/Book responded 200 in 206.0215 ms
+2024-11-14 08:33:06.449 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-11-14 08:33:08.453 +07:00 [INF] HTTP GET /api/Book responded 200 in 1949.7755 ms
+2024-11-14 08:33:40.972 +07:00 [INF] HTTP GET /api/Book responded 200 in 54.0427 ms
+2024-11-14 08:54:14.071 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-11-14 08:54:15.312 +07:00 [INF] HTTP GET /api/Book responded 200 in 1190.2124 ms
+2024-11-14 08:54:39.130 +07:00 [INF] HTTP GET /HealthCHecks responded 404 in 1.4005 ms
+2024-11-14 08:54:57.774 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 08:54:57.779 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 08:54:57.806 +07:00 [INF] HTTP GET /api/Book responded 401 in 9.8058 ms
+2024-11-14 08:54:57.814 +07:00 [INF] Received HTTP response headers after 30.2242ms - 401
+2024-11-14 08:54:57.820 +07:00 [INF] End processing HTTP request after 51.0081ms - 401
+2024-11-14 08:54:57.830 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 63.3269ms with message 'API returned status code Unauthorized.'
+2024-11-14 08:54:58.277 +07:00 [INF] HTTP GET /health responded 200 in 536.3808 ms
+2024-11-14 08:54:58.305 +07:00 [INF] HTTP GET /favicon.ico responded 404 in 0.3211 ms
+2024-11-14 09:24:06.426 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-11-14 09:24:08.570 +07:00 [INF] HTTP GET /api/Book responded 200 in 2091.4390 ms
+2024-11-14 09:25:19.177 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 09:25:19.189 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 09:25:19.222 +07:00 [INF] HTTP GET /api/Book responded 401 in 7.6333 ms
+2024-11-14 09:25:19.229 +07:00 [INF] Received HTTP response headers after 32.9732ms - 401
+2024-11-14 09:25:19.232 +07:00 [INF] End processing HTTP request after 58.8353ms - 401
+2024-11-14 09:25:19.239 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 64.6797ms with message 'API returned status code Unauthorized.'
+2024-11-14 09:25:19.680 +07:00 [INF] HTTP GET /health responded 200 in 532.0664 ms
+2024-11-14 18:24:51.145 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-11-14 18:24:53.122 +07:00 [INF] HTTP POST /api/auth/login responded 200 in 1922.8553 ms
+2024-11-14 18:24:57.083 +07:00 [INF] HTTP GET /api/Book responded 200 in 169.5614 ms
+2024-11-14 18:24:57.097 +07:00 [INF] HTTP GET /api/Book responded 200 in 13.5123 ms
+2024-11-14 18:24:58.679 +07:00 [INF] HTTP GET /api/Book responded 200 in 8.5756 ms
+2024-11-14 18:24:58.695 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.9946 ms
+2024-11-14 18:25:00.064 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.9928 ms
+2024-11-14 18:25:00.087 +07:00 [INF] HTTP GET /api/Book responded 200 in 13.4700 ms
+2024-11-14 18:25:01.165 +07:00 [INF] HTTP GET /api/Book responded 200 in 8.1956 ms
+2024-11-14 18:25:01.201 +07:00 [INF] HTTP GET /api/Book responded 200 in 3.3675 ms
+2024-11-14 18:25:01.691 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.1539 ms
+2024-11-14 18:25:01.730 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.8414 ms
+2024-11-14 18:25:22.720 +07:00 [INF] HTTP GET /api/Book responded 200 in 8.0631 ms
+2024-11-14 18:25:22.728 +07:00 [INF] HTTP GET /api/Book responded 200 in 2.8760 ms
+2024-11-14 18:25:50.996 +07:00 [INF] HTTP GET /api/Book responded 200 in 11.1248 ms
+2024-11-14 18:25:51.006 +07:00 [INF] HTTP GET /api/Book responded 200 in 6.7155 ms
+2024-11-14 18:25:51.695 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.8733 ms
+2024-11-14 18:25:51.710 +07:00 [INF] HTTP GET /api/Book responded 200 in 10.3045 ms
+2024-11-14 18:26:00.146 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.6661 ms
+2024-11-14 18:26:00.152 +07:00 [INF] HTTP GET /api/Book responded 200 in 2.6189 ms
+2024-11-14 18:26:02.367 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.0992 ms
+2024-11-14 18:26:02.379 +07:00 [INF] HTTP GET /api/Book responded 200 in 9.8167 ms
+2024-11-14 18:26:03.980 +07:00 [INF] HTTP GET /api/Book responded 200 in 3.8235 ms
+2024-11-14 18:26:03.989 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.4846 ms
+2024-11-14 18:47:17.934 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-11-14 18:47:19.110 +07:00 [INF] HTTP GET /api/Book responded 200 in 1126.9375 ms
+2024-11-14 18:47:19.160 +07:00 [INF] HTTP GET /api/Book responded 200 in 49.7787 ms
+2024-11-14 18:47:21.666 +07:00 [INF] HTTP GET /api/Book responded 200 in 15.0929 ms
+2024-11-14 18:47:21.674 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.5204 ms
+2024-11-14 18:47:22.658 +07:00 [INF] HTTP GET /api/Book responded 200 in 8.3983 ms
+2024-11-14 18:47:22.667 +07:00 [INF] HTTP GET /api/Book responded 200 in 3.2821 ms
+2024-11-14 18:47:29.432 +07:00 [INF] HTTP GET /api/Book responded 200 in 10.3067 ms
+2024-11-14 18:47:29.439 +07:00 [INF] HTTP GET /api/Book responded 200 in 3.6042 ms
+2024-11-14 18:55:38.840 +07:00 [INF] HTTP GET /api/Book responded 200 in 130.0147 ms
+2024-11-14 18:55:38.846 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.7160 ms
+2024-11-14 18:55:39.231 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.9663 ms
+2024-11-14 18:55:39.243 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.5106 ms
+2024-11-14 18:55:40.450 +07:00 [INF] HTTP GET /api/Book responded 200 in 18.6519 ms
+2024-11-14 18:55:40.463 +07:00 [INF] HTTP GET /api/Book responded 200 in 8.8590 ms
+2024-11-14 18:55:41.569 +07:00 [INF] HTTP GET /api/Book responded 200 in 10.0509 ms
+2024-11-14 18:55:41.578 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.8739 ms
+2024-11-14 18:55:41.904 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.5318 ms
+2024-11-14 18:55:41.947 +07:00 [INF] HTTP GET /api/Book responded 200 in 39.1999 ms
+2024-11-14 18:55:42.138 +07:00 [INF] HTTP GET /api/Book responded 200 in 13.8143 ms
+2024-11-14 18:55:42.150 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.9292 ms
+2024-11-14 18:55:43.056 +07:00 [INF] HTTP GET /api/Book responded 200 in 6.9549 ms
+2024-11-14 18:55:43.063 +07:00 [INF] HTTP GET /api/Book responded 200 in 3.1046 ms
+2024-11-14 18:55:43.829 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.6225 ms
+2024-11-14 18:55:43.837 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.3742 ms
+2024-11-14 18:55:44.174 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.8171 ms
+2024-11-14 18:55:44.185 +07:00 [INF] HTTP GET /api/Book responded 200 in 6.1453 ms
+2024-11-14 18:55:46.279 +07:00 [INF] HTTP GET /api/Book responded 200 in 6.2145 ms
+2024-11-14 18:55:46.286 +07:00 [INF] HTTP GET /api/Book responded 200 in 3.1369 ms
+2024-11-14 18:55:46.600 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.1533 ms
+2024-11-14 18:55:46.621 +07:00 [INF] HTTP GET /api/Book responded 200 in 15.3855 ms
+2024-11-14 18:55:53.052 +07:00 [INF] HTTP GET /api/Book responded 200 in 8.1925 ms
+2024-11-14 18:55:53.061 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.7225 ms
+2024-11-14 18:55:56.637 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.7507 ms
+2024-11-14 18:55:56.645 +07:00 [INF] HTTP GET /api/Book responded 200 in 3.7200 ms
+2024-11-14 18:59:13.415 +07:00 [INF] HTTP POST /api/auth/login responded 200 in 184.1555 ms
+2024-11-14 18:59:15.439 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.2855 ms
+2024-11-14 18:59:15.448 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.8683 ms
+2024-11-14 18:59:17.745 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.1362 ms
+2024-11-14 18:59:17.764 +07:00 [INF] HTTP GET /api/Book responded 200 in 11.1034 ms
+2024-11-14 18:59:34.250 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.7629 ms
+2024-11-14 18:59:34.260 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.1455 ms
+2024-11-14 18:59:38.598 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.1791 ms
+2024-11-14 18:59:38.620 +07:00 [INF] HTTP GET /api/Book responded 200 in 13.2273 ms
+2024-11-14 18:59:39.451 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.4926 ms
+2024-11-14 18:59:39.467 +07:00 [INF] HTTP GET /api/Book responded 200 in 10.9591 ms
+2024-11-14 18:59:40.273 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.3643 ms
+2024-11-14 18:59:40.309 +07:00 [INF] HTTP GET /api/Book responded 200 in 33.8712 ms
+2024-11-14 19:00:02.985 +07:00 [INF] HTTP GET /api/Book responded 200 in 9.2030 ms
+2024-11-14 19:00:02.994 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.8525 ms
+2024-11-14 19:00:45.261 +07:00 [INF] HTTP GET /api/Book responded 200 in 15.1173 ms
+2024-11-14 19:00:45.274 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.0433 ms
+2024-11-14 19:00:46.459 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.5976 ms
+2024-11-14 19:00:46.475 +07:00 [INF] HTTP GET /api/Book responded 200 in 6.6453 ms
+2024-11-14 19:00:47.526 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.2292 ms
+2024-11-14 19:00:47.538 +07:00 [INF] HTTP GET /api/Book responded 200 in 8.5413 ms
+2024-11-14 19:00:48.288 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.2515 ms
+2024-11-14 19:00:48.316 +07:00 [INF] HTTP GET /api/Book responded 200 in 26.3226 ms
+2024-11-14 19:00:49.231 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.6895 ms
+2024-11-14 19:00:49.241 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.1826 ms
+2024-11-14 19:01:03.962 +07:00 [INF] HTTP GET /api/Book responded 200 in 11.1403 ms
+2024-11-14 19:01:03.977 +07:00 [INF] HTTP GET /api/Book responded 200 in 8.2690 ms
+2024-11-14 19:01:05.722 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.9443 ms
+2024-11-14 19:01:05.764 +07:00 [INF] HTTP GET /api/Book responded 200 in 39.9466 ms
+2024-11-14 19:01:40.254 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.7105 ms
+2024-11-14 19:01:40.259 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.0710 ms
+2024-11-14 19:01:45.668 +07:00 [INF] HTTP GET /api/Book responded 200 in 2.4565 ms
+2024-11-14 19:01:45.676 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.0588 ms
+2024-11-14 19:01:47.909 +07:00 [INF] HTTP GET /api/Book responded 200 in 2.4679 ms
+2024-11-14 19:01:47.916 +07:00 [INF] HTTP GET /api/Book responded 200 in 3.8163 ms
+2024-11-14 19:01:49.003 +07:00 [INF] HTTP GET /api/Book responded 200 in 2.1680 ms
+2024-11-14 19:01:49.011 +07:00 [INF] HTTP GET /api/Book responded 200 in 6.4178 ms
+2024-11-14 19:01:50.308 +07:00 [INF] HTTP GET /api/Book responded 200 in 2.5579 ms
+2024-11-14 19:01:50.319 +07:00 [INF] HTTP GET /api/Book responded 200 in 8.8445 ms
+2024-11-14 19:02:11.365 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.0343 ms
+2024-11-14 19:02:11.379 +07:00 [INF] HTTP GET /api/Book responded 200 in 8.3025 ms
+2024-11-14 19:02:17.288 +07:00 [INF] HTTP GET /api/Book responded 200 in 3.7997 ms
+2024-11-14 19:02:17.295 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.8587 ms
+2024-11-14 19:02:22.954 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.9779 ms
+2024-11-14 19:02:22.965 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.0051 ms
+2024-11-14 19:04:15.200 +07:00 [INF] HTTP GET /api/Book responded 200 in 11.5529 ms
+2024-11-14 19:04:15.210 +07:00 [INF] HTTP GET /api/Book responded 200 in 8.3837 ms
+2024-11-14 19:06:03.183 +07:00 [INF] HTTP GET /api/Book responded 200 in 6.3163 ms
+2024-11-14 19:06:03.192 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.4940 ms
+2024-11-14 19:06:03.650 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.6188 ms
+2024-11-14 19:06:03.681 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.8389 ms
+2024-11-14 19:06:10.005 +07:00 [INF] HTTP GET /api/Book responded 200 in 6.8021 ms
+2024-11-14 19:06:10.016 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.7651 ms
+2024-11-14 19:06:18.678 +07:00 [INF] HTTP GET /api/Book responded 200 in 2.9595 ms
+2024-11-14 19:06:18.711 +07:00 [INF] HTTP GET /api/Book responded 200 in 2.4144 ms
+2024-11-14 19:06:19.636 +07:00 [INF] HTTP GET /api/Book responded 200 in 2.3495 ms
+2024-11-14 19:06:19.643 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.2012 ms
+2024-11-14 19:06:55.390 +07:00 [INF] HTTP GET /api/Book responded 200 in 8.8983 ms
+2024-11-14 19:06:55.401 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.9352 ms
+2024-11-14 19:06:56.589 +07:00 [INF] HTTP GET /api/Book responded 200 in 3.0286 ms
+2024-11-14 19:06:56.595 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.6579 ms
+2024-11-14 19:06:56.915 +07:00 [INF] HTTP GET /api/Book responded 200 in 2.1319 ms
+2024-11-14 19:06:56.921 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.1742 ms
+2024-11-14 21:10:10.082 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-11-14 21:10:11.799 +07:00 [INF] HTTP POST /api/auth/login responded 200 in 1673.2032 ms
+2024-11-14 21:10:14.285 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:10:14.291 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:10:14.317 +07:00 [INF] HTTP GET /api/Book responded 401 in 9.6957 ms
+2024-11-14 21:10:14.323 +07:00 [INF] Received HTTP response headers after 27.7334ms - 401
+2024-11-14 21:10:14.326 +07:00 [INF] End processing HTTP request after 44.5404ms - 401
+2024-11-14 21:10:14.334 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 50.2714ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:10:14.787 +07:00 [INF] HTTP GET /health responded 200 in 528.9811 ms
+2024-11-14 21:10:14.791 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:10:14.793 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:10:14.798 +07:00 [INF] HTTP GET /api/Book responded 401 in 1.8033 ms
+2024-11-14 21:10:14.801 +07:00 [INF] Received HTTP response headers after 5.5145ms - 401
+2024-11-14 21:10:14.803 +07:00 [INF] End processing HTTP request after 11.4797ms - 401
+2024-11-14 21:10:14.804 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 14.0662ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:10:15.304 +07:00 [INF] HTTP GET /health responded 200 in 514.6987 ms
+2024-11-14 21:10:24.271 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:10:24.274 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:10:24.277 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.9101 ms
+2024-11-14 21:10:24.280 +07:00 [INF] Received HTTP response headers after 4.1525ms - 401
+2024-11-14 21:10:24.281 +07:00 [INF] End processing HTTP request after 10.0339ms - 401
+2024-11-14 21:10:24.283 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 12.2812ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:10:24.776 +07:00 [INF] HTTP GET /health responded 200 in 506.1718 ms
+2024-11-14 21:10:34.266 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:10:34.269 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:10:34.273 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1549 ms
+2024-11-14 21:10:34.276 +07:00 [INF] Received HTTP response headers after 4.1112ms - 401
+2024-11-14 21:10:34.278 +07:00 [INF] End processing HTTP request after 12.8084ms - 401
+2024-11-14 21:10:34.281 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 15.6492ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:10:34.774 +07:00 [INF] HTTP GET /health responded 200 in 508.7214 ms
+2024-11-14 21:10:44.331 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:10:44.335 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:10:44.338 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1138 ms
+2024-11-14 21:10:44.340 +07:00 [INF] Received HTTP response headers after 3.086ms - 401
+2024-11-14 21:10:44.342 +07:00 [INF] End processing HTTP request after 11.0255ms - 401
+2024-11-14 21:10:44.345 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 13.7196ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:10:44.832 +07:00 [INF] HTTP GET /health responded 200 in 501.5581 ms
+2024-11-14 21:10:54.328 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:10:54.331 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:10:54.333 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1264 ms
+2024-11-14 21:10:54.336 +07:00 [INF] Received HTTP response headers after 3.8679ms - 401
+2024-11-14 21:10:54.338 +07:00 [INF] End processing HTTP request after 10.082ms - 401
+2024-11-14 21:10:54.339 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 12.1163ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:10:54.834 +07:00 [INF] HTTP GET /health responded 200 in 507.1657 ms
+2024-11-14 21:10:55.670 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:10:55.673 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:10:55.686 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.5605 ms
+2024-11-14 21:10:55.693 +07:00 [INF] Received HTTP response headers after 12.2551ms - 401
+2024-11-14 21:10:55.695 +07:00 [INF] End processing HTTP request after 25.4554ms - 401
+2024-11-14 21:10:55.698 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 28.1228ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:10:56.173 +07:00 [INF] HTTP GET /health responded 200 in 504.0226 ms
+2024-11-14 21:10:56.207 +07:00 [INF] HTTP GET /favicon.ico responded 404 in 1.3164 ms
+2024-11-14 21:11:04.336 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:11:04.339 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:11:04.342 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1073 ms
+2024-11-14 21:11:04.344 +07:00 [INF] Received HTTP response headers after 3.0275ms - 401
+2024-11-14 21:11:04.346 +07:00 [INF] End processing HTTP request after 9.8155ms - 401
+2024-11-14 21:11:04.348 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 11.8478ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:11:04.843 +07:00 [INF] HTTP GET /health responded 200 in 507.9510 ms
+2024-11-14 21:11:14.330 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:11:14.334 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:11:14.337 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1243 ms
+2024-11-14 21:11:14.339 +07:00 [INF] Received HTTP response headers after 3.1621ms - 401
+2024-11-14 21:11:14.341 +07:00 [INF] End processing HTTP request after 10.7101ms - 401
+2024-11-14 21:11:14.343 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 13.2022ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:11:14.839 +07:00 [INF] HTTP GET /health responded 200 in 509.5083 ms
+2024-11-14 21:11:24.332 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:11:24.361 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:11:24.367 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1659 ms
+2024-11-14 21:11:24.374 +07:00 [INF] Received HTTP response headers after 8.9709ms - 401
+2024-11-14 21:11:24.377 +07:00 [INF] End processing HTTP request after 45.6543ms - 401
+2024-11-14 21:11:24.379 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 47.7793ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:11:24.841 +07:00 [INF] HTTP GET /health responded 200 in 509.2826 ms
+2024-11-14 21:11:34.337 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:11:34.339 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:11:34.346 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1210 ms
+2024-11-14 21:11:34.349 +07:00 [INF] Received HTTP response headers after 3.4166ms - 401
+2024-11-14 21:11:34.351 +07:00 [INF] End processing HTTP request after 14.1098ms - 401
+2024-11-14 21:11:34.352 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 16.0488ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:11:34.846 +07:00 [INF] HTTP GET /health responded 200 in 509.6867 ms
+2024-11-14 21:11:55.340 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:11:55.347 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:11:55.352 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.3831 ms
+2024-11-14 21:11:55.355 +07:00 [INF] Received HTTP response headers after 5.3926ms - 401
+2024-11-14 21:11:55.357 +07:00 [INF] End processing HTTP request after 17.4933ms - 401
+2024-11-14 21:11:55.359 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 19.5299ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:11:55.844 +07:00 [INF] HTTP GET /health responded 200 in 505.5679 ms
+2024-11-14 21:12:45.336 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:12:45.341 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:12:45.347 +07:00 [INF] HTTP GET /api/Book responded 401 in 1.2544 ms
+2024-11-14 21:12:45.352 +07:00 [INF] Received HTTP response headers after 8.8041ms - 401
+2024-11-14 21:12:45.354 +07:00 [INF] End processing HTTP request after 18.1155ms - 401
+2024-11-14 21:12:45.356 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 20.3029ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:12:45.845 +07:00 [INF] HTTP GET /health responded 200 in 513.3054 ms
+2024-11-14 21:12:45.852 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:12:45.855 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:12:45.857 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1145 ms
+2024-11-14 21:12:45.860 +07:00 [INF] Received HTTP response headers after 3.3202ms - 401
+2024-11-14 21:12:45.863 +07:00 [INF] End processing HTTP request after 10.7957ms - 401
+2024-11-14 21:12:45.865 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 13.3218ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:12:46.354 +07:00 [INF] HTTP GET /health responded 200 in 502.4208 ms
+2024-11-14 21:12:56.333 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:12:56.336 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:12:56.344 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1167 ms
+2024-11-14 21:12:56.347 +07:00 [INF] Received HTTP response headers after 5.3669ms - 401
+2024-11-14 21:12:56.349 +07:00 [INF] End processing HTTP request after 15.6841ms - 401
+2024-11-14 21:12:56.351 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 17.61ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:12:56.843 +07:00 [INF] HTTP GET /health responded 200 in 510.1754 ms
+2024-11-14 21:12:56.850 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:12:56.853 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:12:56.858 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.3666 ms
+2024-11-14 21:12:56.864 +07:00 [INF] Received HTTP response headers after 7.0813ms - 401
+2024-11-14 21:12:56.867 +07:00 [INF] End processing HTTP request after 16.8677ms - 401
+2024-11-14 21:12:56.872 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 22.3985ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:12:57.356 +07:00 [INF] HTTP GET /health responded 200 in 506.8385 ms
+2024-11-14 21:13:07.327 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:13:07.330 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:13:07.338 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.2378 ms
+2024-11-14 21:13:07.342 +07:00 [INF] Received HTTP response headers after 5.6294ms - 401
+2024-11-14 21:13:07.344 +07:00 [INF] End processing HTTP request after 16.7203ms - 401
+2024-11-14 21:13:07.346 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 19.3781ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:13:07.830 +07:00 [INF] HTTP GET /health responded 200 in 503.2314 ms
+2024-11-14 21:13:17.332 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:13:17.335 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:13:17.337 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.2221 ms
+2024-11-14 21:13:17.341 +07:00 [INF] Received HTTP response headers after 4.4986ms - 401
+2024-11-14 21:13:17.343 +07:00 [INF] End processing HTTP request after 10.9288ms - 401
+2024-11-14 21:13:17.345 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 13.1528ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:13:17.839 +07:00 [INF] HTTP GET /health responded 200 in 507.3346 ms
+2024-11-14 21:13:27.340 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:13:27.343 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:13:27.347 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1413 ms
+2024-11-14 21:13:27.350 +07:00 [INF] Received HTTP response headers after 3.9113ms - 401
+2024-11-14 21:13:27.354 +07:00 [INF] End processing HTTP request after 14.1321ms - 401
+2024-11-14 21:13:27.356 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 16.6946ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:13:27.848 +07:00 [INF] HTTP GET /health responded 200 in 509.7282 ms
+2024-11-14 21:13:37.332 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:13:37.335 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:13:37.339 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1505 ms
+2024-11-14 21:13:37.341 +07:00 [INF] Received HTTP response headers after 3.9512ms - 401
+2024-11-14 21:13:37.345 +07:00 [INF] End processing HTTP request after 12.8978ms - 401
+2024-11-14 21:13:37.348 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 16.6132ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:13:37.837 +07:00 [INF] HTTP GET /health responded 200 in 505.9869 ms
+2024-11-14 21:13:53.837 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:13:53.841 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:13:53.857 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.3230 ms
+2024-11-14 21:13:53.862 +07:00 [INF] Received HTTP response headers after 6.7556ms - 401
+2024-11-14 21:13:53.866 +07:00 [INF] End processing HTTP request after 29.2648ms - 401
+2024-11-14 21:13:53.872 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 35.8689ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:13:54.345 +07:00 [INF] HTTP GET /health responded 200 in 509.5708 ms
+2024-11-14 21:13:54.350 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:13:54.353 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:13:54.357 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.2218 ms
+2024-11-14 21:13:54.360 +07:00 [INF] Received HTTP response headers after 4.3138ms - 401
+2024-11-14 21:13:54.362 +07:00 [INF] End processing HTTP request after 12.1944ms - 401
+2024-11-14 21:13:54.364 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 14.0844ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:13:54.866 +07:00 [INF] HTTP GET /health responded 200 in 516.6017 ms
+2024-11-14 21:14:03.826 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:14:03.828 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:14:03.833 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1095 ms
+2024-11-14 21:14:03.835 +07:00 [INF] Received HTTP response headers after 4.1356ms - 401
+2024-11-14 21:14:03.837 +07:00 [INF] End processing HTTP request after 11.9301ms - 401
+2024-11-14 21:14:03.840 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 14.6614ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:14:04.336 +07:00 [INF] HTTP GET /health responded 200 in 510.6835 ms
+2024-11-14 21:14:07.924 +07:00 [INF] HTTP GET /api/Book responded 200 in 189.9898 ms
+2024-11-14 21:14:07.969 +07:00 [INF] HTTP GET /api/Book responded 200 in 41.3188 ms
+2024-11-14 21:14:08.418 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.6969 ms
+2024-11-14 21:14:08.430 +07:00 [INF] HTTP GET /api/Book responded 200 in 6.9867 ms
+2024-11-14 21:14:09.214 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:14:09.219 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:14:09.231 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.9314 ms
+2024-11-14 21:14:09.238 +07:00 [INF] Received HTTP response headers after 13.8888ms - 401
+2024-11-14 21:14:09.246 +07:00 [INF] End processing HTTP request after 32.48ms - 401
+2024-11-14 21:14:09.252 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 38.9741ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:14:09.725 +07:00 [INF] HTTP GET /health responded 200 in 511.5730 ms
+2024-11-14 21:14:09.729 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:14:09.734 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:14:09.738 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1746 ms
+2024-11-14 21:14:09.742 +07:00 [INF] Received HTTP response headers after 5.4267ms - 401
+2024-11-14 21:14:09.744 +07:00 [INF] End processing HTTP request after 15.4216ms - 401
+2024-11-14 21:14:09.746 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 17.2386ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:14:10.235 +07:00 [INF] HTTP GET /health responded 200 in 508.0487 ms
+2024-11-14 21:14:19.335 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:14:19.338 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:14:19.343 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.3738 ms
+2024-11-14 21:14:19.346 +07:00 [INF] Received HTTP response headers after 4.6974ms - 401
+2024-11-14 21:14:19.348 +07:00 [INF] End processing HTTP request after 12.8414ms - 401
+2024-11-14 21:14:19.350 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 15.2389ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:14:19.841 +07:00 [INF] HTTP GET /health responded 200 in 506.2468 ms
+2024-11-14 21:14:29.216 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:14:29.219 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:14:29.221 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1356 ms
+2024-11-14 21:14:29.224 +07:00 [INF] Received HTTP response headers after 3.1347ms - 401
+2024-11-14 21:14:29.225 +07:00 [INF] End processing HTTP request after 9.3648ms - 401
+2024-11-14 21:14:29.227 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 11.4074ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:14:29.719 +07:00 [INF] HTTP GET /health responded 200 in 503.2428 ms
+2024-11-14 21:14:39.226 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:14:39.229 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:14:39.232 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.5912 ms
+2024-11-14 21:14:39.234 +07:00 [INF] Received HTTP response headers after 3.2645ms - 401
+2024-11-14 21:14:39.235 +07:00 [INF] End processing HTTP request after 8.8833ms - 401
+2024-11-14 21:14:39.236 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 10.6607ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:14:39.732 +07:00 [INF] HTTP GET /health responded 200 in 506.4627 ms
+2024-11-14 21:14:49.230 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:14:49.232 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:14:49.236 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1430 ms
+2024-11-14 21:14:49.238 +07:00 [INF] Received HTTP response headers after 4.5066ms - 401
+2024-11-14 21:14:49.240 +07:00 [INF] End processing HTTP request after 10.1245ms - 401
+2024-11-14 21:14:49.241 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 11.7213ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:14:49.734 +07:00 [INF] HTTP GET /health responded 200 in 505.8767 ms
+2024-11-14 21:14:59.216 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:14:59.219 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:14:59.225 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.3067 ms
+2024-11-14 21:14:59.229 +07:00 [INF] Received HTTP response headers after 5.628ms - 401
+2024-11-14 21:14:59.232 +07:00 [INF] End processing HTTP request after 16.1487ms - 401
+2024-11-14 21:14:59.235 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 19.3128ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:14:59.726 +07:00 [INF] HTTP GET /health responded 200 in 511.0574 ms
+2024-11-14 21:15:09.227 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:15:09.231 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:15:09.234 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.2130 ms
+2024-11-14 21:15:09.240 +07:00 [INF] Received HTTP response headers after 6.131ms - 401
+2024-11-14 21:15:09.243 +07:00 [INF] End processing HTTP request after 15.6725ms - 401
+2024-11-14 21:15:09.246 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 19.3111ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:15:09.737 +07:00 [INF] HTTP GET /health responded 200 in 510.5100 ms
+2024-11-14 21:15:18.442 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:15:18.445 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:15:18.448 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1203 ms
+2024-11-14 21:15:18.450 +07:00 [INF] Received HTTP response headers after 3.2522ms - 401
+2024-11-14 21:15:18.451 +07:00 [INF] End processing HTTP request after 9.0612ms - 401
+2024-11-14 21:15:18.453 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 10.7358ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:15:18.950 +07:00 [INF] HTTP GET /health responded 200 in 508.2303 ms
+2024-11-14 21:15:22.491 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:15:22.494 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:15:22.497 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0814 ms
+2024-11-14 21:15:22.500 +07:00 [INF] Received HTTP response headers after 3.4046ms - 401
+2024-11-14 21:15:22.502 +07:00 [INF] End processing HTTP request after 10.5001ms - 401
+2024-11-14 21:15:22.504 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 12.7994ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:15:23.002 +07:00 [INF] HTTP GET /health responded 200 in 510.6324 ms
+2024-11-14 21:15:32.499 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:15:32.502 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:15:32.504 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0758 ms
+2024-11-14 21:15:32.506 +07:00 [INF] Received HTTP response headers after 2.5746ms - 401
+2024-11-14 21:15:32.508 +07:00 [INF] End processing HTTP request after 8.8926ms - 401
+2024-11-14 21:15:32.510 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 10.9525ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:15:33.011 +07:00 [INF] HTTP GET /health responded 200 in 512.5069 ms
+2024-11-14 21:15:35.191 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:15:35.195 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:15:35.207 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1908 ms
+2024-11-14 21:15:35.210 +07:00 [INF] Received HTTP response headers after 8.8348ms - 401
+2024-11-14 21:15:35.214 +07:00 [INF] End processing HTTP request after 22.9884ms - 401
+2024-11-14 21:15:35.218 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 27.405ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:15:35.694 +07:00 [INF] HTTP GET /health responded 200 in 504.2754 ms
+2024-11-14 21:15:45.110 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:15:45.114 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:15:45.118 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0899 ms
+2024-11-14 21:15:45.121 +07:00 [INF] Received HTTP response headers after 3.9576ms - 401
+2024-11-14 21:15:45.124 +07:00 [INF] End processing HTTP request after 13.5358ms - 401
+2024-11-14 21:15:45.127 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 17.5475ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:15:45.612 +07:00 [INF] HTTP GET /health responded 200 in 502.4423 ms
+2024-11-14 21:15:48.519 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:15:48.523 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:15:48.528 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1947 ms
+2024-11-14 21:15:48.531 +07:00 [INF] Received HTTP response headers after 3.9676ms - 401
+2024-11-14 21:15:48.532 +07:00 [INF] End processing HTTP request after 13.168ms - 401
+2024-11-14 21:15:48.534 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 14.9532ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:15:49.021 +07:00 [INF] HTTP GET /health responded 200 in 503.0633 ms
+2024-11-14 21:15:53.224 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:15:53.226 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:15:53.230 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0835 ms
+2024-11-14 21:15:53.232 +07:00 [INF] Received HTTP response headers after 3.1037ms - 401
+2024-11-14 21:15:53.234 +07:00 [INF] End processing HTTP request after 10.0095ms - 401
+2024-11-14 21:15:53.235 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 11.6807ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:15:53.728 +07:00 [INF] HTTP GET /health responded 200 in 504.7983 ms
+2024-11-14 21:16:03.235 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:16:03.237 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:16:03.239 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0725 ms
+2024-11-14 21:16:03.241 +07:00 [INF] Received HTTP response headers after 2.4777ms - 401
+2024-11-14 21:16:03.242 +07:00 [INF] End processing HTTP request after 7.8484ms - 401
+2024-11-14 21:16:03.244 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 9.9516ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:16:03.744 +07:00 [INF] HTTP GET /health responded 200 in 510.3678 ms
+2024-11-14 21:16:04.469 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:16:04.471 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:16:04.475 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1028 ms
+2024-11-14 21:16:04.477 +07:00 [INF] Received HTTP response headers after 3.4551ms - 401
+2024-11-14 21:16:04.478 +07:00 [INF] End processing HTTP request after 9.7783ms - 401
+2024-11-14 21:16:04.480 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 11.9254ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:16:04.975 +07:00 [INF] HTTP GET /health responded 200 in 507.0072 ms
+2024-11-14 21:16:09.145 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:16:09.149 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:16:09.154 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1778 ms
+2024-11-14 21:16:09.157 +07:00 [INF] Received HTTP response headers after 4.2418ms - 401
+2024-11-14 21:16:09.160 +07:00 [INF] End processing HTTP request after 15.4697ms - 401
+2024-11-14 21:16:09.163 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 18.1516ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:16:09.649 +07:00 [INF] HTTP GET /health responded 200 in 504.1395 ms
+2024-11-14 21:16:16.425 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:16:16.428 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:16:16.432 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0817 ms
+2024-11-14 21:16:16.434 +07:00 [INF] Received HTTP response headers after 3.093ms - 401
+2024-11-14 21:16:16.435 +07:00 [INF] End processing HTTP request after 10.4618ms - 401
+2024-11-14 21:16:16.437 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 12.1761ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:16:16.935 +07:00 [INF] HTTP GET /health responded 200 in 510.9306 ms
+2024-11-14 21:16:27.332 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:16:27.336 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:16:27.340 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1988 ms
+2024-11-14 21:16:27.344 +07:00 [INF] Received HTTP response headers after 4.9293ms - 401
+2024-11-14 21:16:27.348 +07:00 [INF] End processing HTTP request after 16.0226ms - 401
+2024-11-14 21:16:27.350 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 18.2913ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:16:27.844 +07:00 [INF] HTTP GET /health responded 200 in 513.0985 ms
+2024-11-14 21:16:30.339 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:16:30.342 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:16:30.345 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0889 ms
+2024-11-14 21:16:30.347 +07:00 [INF] Received HTTP response headers after 2.8596ms - 401
+2024-11-14 21:16:30.350 +07:00 [INF] End processing HTTP request after 10.2464ms - 401
+2024-11-14 21:16:30.352 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 12.6473ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:16:30.854 +07:00 [INF] HTTP GET /health responded 200 in 515.3889 ms
+2024-11-14 21:16:40.343 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:16:40.345 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:16:40.349 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1594 ms
+2024-11-14 21:16:40.353 +07:00 [INF] Received HTTP response headers after 4.4831ms - 401
+2024-11-14 21:16:40.355 +07:00 [INF] End processing HTTP request after 12.2446ms - 401
+2024-11-14 21:16:40.357 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 14.6367ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:16:40.853 +07:00 [INF] HTTP GET /health responded 200 in 511.1731 ms
+2024-11-14 21:16:47.210 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:16:47.213 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:16:47.217 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.2116 ms
+2024-11-14 21:16:47.220 +07:00 [INF] Received HTTP response headers after 3.9681ms - 401
+2024-11-14 21:16:47.222 +07:00 [INF] End processing HTTP request after 11.6032ms - 401
+2024-11-14 21:16:47.225 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 14.6297ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:16:47.715 +07:00 [INF] HTTP GET /health responded 200 in 505.0878 ms
+2024-11-14 21:16:57.220 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:16:57.223 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:16:57.231 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0810 ms
+2024-11-14 21:16:57.233 +07:00 [INF] Received HTTP response headers after 8.6205ms - 401
+2024-11-14 21:16:57.235 +07:00 [INF] End processing HTTP request after 15.0046ms - 401
+2024-11-14 21:16:57.237 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 17.0801ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:16:57.723 +07:00 [INF] HTTP GET /health responded 200 in 503.5538 ms
+2024-11-14 21:17:07.215 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:17:07.217 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:17:07.219 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1700 ms
+2024-11-14 21:17:07.221 +07:00 [INF] Received HTTP response headers after 2.5343ms - 401
+2024-11-14 21:17:07.223 +07:00 [INF] End processing HTTP request after 8.2229ms - 401
+2024-11-14 21:17:07.224 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 9.8434ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:17:07.719 +07:00 [INF] HTTP GET /health responded 200 in 505.1769 ms
+2024-11-14 21:17:17.220 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:17:17.223 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:17:17.225 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0755 ms
+2024-11-14 21:17:17.227 +07:00 [INF] Received HTTP response headers after 2.7978ms - 401
+2024-11-14 21:17:17.229 +07:00 [INF] End processing HTTP request after 9.4905ms - 401
+2024-11-14 21:17:17.231 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 11.3115ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:17:17.729 +07:00 [INF] HTTP GET /health responded 200 in 509.8218 ms
+2024-11-14 21:17:19.401 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:17:19.404 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:17:19.407 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0931 ms
+2024-11-14 21:17:19.409 +07:00 [INF] Received HTTP response headers after 2.9163ms - 401
+2024-11-14 21:17:19.410 +07:00 [INF] End processing HTTP request after 9.1536ms - 401
+2024-11-14 21:17:19.412 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 10.739ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:17:19.908 +07:00 [INF] HTTP GET /health responded 200 in 506.7924 ms
+2024-11-14 21:17:29.408 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:17:29.411 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:17:29.414 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1276 ms
+2024-11-14 21:17:29.416 +07:00 [INF] Received HTTP response headers after 3.4836ms - 401
+2024-11-14 21:17:29.418 +07:00 [INF] End processing HTTP request after 10.116ms - 401
+2024-11-14 21:17:29.421 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 12.6664ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:17:29.912 +07:00 [INF] HTTP GET /health responded 200 in 504.6047 ms
+2024-11-14 21:17:33.929 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:17:33.932 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:17:33.934 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0970 ms
+2024-11-14 21:17:33.937 +07:00 [INF] Received HTTP response headers after 3.3062ms - 401
+2024-11-14 21:17:33.938 +07:00 [INF] End processing HTTP request after 9.4733ms - 401
+2024-11-14 21:17:33.940 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 11.1658ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:17:34.444 +07:00 [INF] HTTP GET /health responded 200 in 514.9564 ms
+2024-11-14 21:17:37.947 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:17:37.950 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:17:37.954 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0820 ms
+2024-11-14 21:17:37.955 +07:00 [INF] Received HTTP response headers after 2.6049ms - 401
+2024-11-14 21:17:37.992 +07:00 [INF] End processing HTTP request after 44.8562ms - 401
+2024-11-14 21:17:37.996 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 49.1808ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:17:38.451 +07:00 [INF] HTTP GET /health responded 200 in 503.7934 ms
+2024-11-14 21:17:41.603 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:17:41.606 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:17:41.610 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1168 ms
+2024-11-14 21:17:41.612 +07:00 [INF] Received HTTP response headers after 3.0378ms - 401
+2024-11-14 21:17:41.613 +07:00 [INF] End processing HTTP request after 10.3033ms - 401
+2024-11-14 21:17:41.615 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 12.1311ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:17:42.109 +07:00 [INF] HTTP GET /health responded 200 in 506.1575 ms
+2024-11-14 21:17:44.152 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:17:44.155 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:17:44.159 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1313 ms
+2024-11-14 21:17:44.161 +07:00 [INF] Received HTTP response headers after 3.7329ms - 401
+2024-11-14 21:17:44.162 +07:00 [INF] End processing HTTP request after 9.8195ms - 401
+2024-11-14 21:17:44.164 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 11.6406ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:17:44.665 +07:00 [INF] HTTP GET /health responded 200 in 513.2996 ms
+2024-11-14 21:17:54.154 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:17:54.159 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:17:54.167 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.5489 ms
+2024-11-14 21:17:54.174 +07:00 [INF] Received HTTP response headers after 9.7667ms - 401
+2024-11-14 21:17:54.178 +07:00 [INF] End processing HTTP request after 23.4576ms - 401
+2024-11-14 21:17:54.183 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 29.0662ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:17:54.663 +07:00 [INF] HTTP GET /health responded 200 in 509.5813 ms
+2024-11-14 21:18:04.337 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:04.340 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:04.342 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1906 ms
+2024-11-14 21:18:04.344 +07:00 [INF] Received HTTP response headers after 2.8321ms - 401
+2024-11-14 21:18:04.346 +07:00 [INF] End processing HTTP request after 9.3861ms - 401
+2024-11-14 21:18:04.348 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 11.0545ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:18:04.842 +07:00 [INF] HTTP GET /health responded 200 in 505.9305 ms
+2024-11-14 21:18:14.328 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:14.331 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:14.334 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1558 ms
+2024-11-14 21:18:14.336 +07:00 [INF] Received HTTP response headers after 2.8402ms - 401
+2024-11-14 21:18:14.337 +07:00 [INF] End processing HTTP request after 9.2837ms - 401
+2024-11-14 21:18:14.339 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 11.32ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:18:14.836 +07:00 [INF] HTTP GET /health responded 200 in 508.7595 ms
+2024-11-14 21:18:24.335 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:24.338 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:24.341 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1534 ms
+2024-11-14 21:18:24.342 +07:00 [INF] Received HTTP response headers after 2.6038ms - 401
+2024-11-14 21:18:24.344 +07:00 [INF] End processing HTTP request after 8.8527ms - 401
+2024-11-14 21:18:24.346 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 11.0295ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:18:24.848 +07:00 [INF] HTTP GET /health responded 200 in 513.5640 ms
+2024-11-14 21:18:29.332 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:29.341 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:29.360 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1910 ms
+2024-11-14 21:18:29.364 +07:00 [INF] Received HTTP response headers after 6.3619ms - 401
+2024-11-14 21:18:29.372 +07:00 [INF] End processing HTTP request after 40.558ms - 401
+2024-11-14 21:18:29.378 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 45.8256ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:18:29.834 +07:00 [INF] HTTP GET /health responded 200 in 503.9513 ms
+2024-11-14 21:18:30.335 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:30.340 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:30.344 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.2021 ms
+2024-11-14 21:18:30.354 +07:00 [INF] Received HTTP response headers after 10.641ms - 401
+2024-11-14 21:18:30.360 +07:00 [INF] End processing HTTP request after 25.17ms - 401
+2024-11-14 21:18:30.364 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 29.0207ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:18:30.838 +07:00 [INF] HTTP GET /health responded 200 in 503.4295 ms
+2024-11-14 21:18:33.325 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:33.327 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:33.330 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0746 ms
+2024-11-14 21:18:33.332 +07:00 [INF] Received HTTP response headers after 2.8738ms - 401
+2024-11-14 21:18:33.333 +07:00 [INF] End processing HTTP request after 8.7678ms - 401
+2024-11-14 21:18:33.335 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 10.4562ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:18:33.835 +07:00 [INF] HTTP GET /health responded 200 in 510.8316 ms
+2024-11-14 21:18:39.337 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:39.339 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:39.342 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0671 ms
+2024-11-14 21:18:39.345 +07:00 [INF] Received HTTP response headers after 3.2414ms - 401
+2024-11-14 21:18:39.347 +07:00 [INF] End processing HTTP request after 10.8268ms - 401
+2024-11-14 21:18:39.349 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 12.8663ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:18:39.840 +07:00 [INF] HTTP GET /health responded 200 in 503.7942 ms
+2024-11-14 21:18:44.338 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:44.341 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:44.352 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1651 ms
+2024-11-14 21:18:44.355 +07:00 [INF] Received HTTP response headers after 4.8645ms - 401
+2024-11-14 21:18:44.358 +07:00 [INF] End processing HTTP request after 19.1457ms - 401
+2024-11-14 21:18:44.359 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 21.0155ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:18:44.844 +07:00 [INF] HTTP GET /health responded 200 in 506.4045 ms
+2024-11-14 21:18:49.338 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:49.340 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:49.343 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0940 ms
+2024-11-14 21:18:49.345 +07:00 [INF] Received HTTP response headers after 3.0446ms - 401
+2024-11-14 21:18:49.347 +07:00 [INF] End processing HTTP request after 8.7509ms - 401
+2024-11-14 21:18:49.348 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 10.3863ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:18:49.847 +07:00 [INF] HTTP GET /health responded 200 in 509.3301 ms
+2024-11-14 21:18:53.332 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:53.334 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:53.338 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0824 ms
+2024-11-14 21:18:53.342 +07:00 [INF] Received HTTP response headers after 5.3788ms - 401
+2024-11-14 21:18:53.344 +07:00 [INF] End processing HTTP request after 12.3537ms - 401
+2024-11-14 21:18:53.347 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 15.7375ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:18:53.841 +07:00 [INF] HTTP GET /health responded 200 in 509.4812 ms
+2024-11-14 21:18:58.346 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:58.349 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:18:58.355 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0585 ms
+2024-11-14 21:18:58.357 +07:00 [INF] Received HTTP response headers after 5.3954ms - 401
+2024-11-14 21:18:58.359 +07:00 [INF] End processing HTTP request after 12.4998ms - 401
+2024-11-14 21:18:58.360 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 14.0899ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:18:58.854 +07:00 [INF] HTTP GET /health responded 200 in 507.8752 ms
+2024-11-14 21:19:03.333 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:19:03.336 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:19:03.338 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0536 ms
+2024-11-14 21:19:03.340 +07:00 [INF] Received HTTP response headers after 2.4938ms - 401
+2024-11-14 21:19:03.342 +07:00 [INF] End processing HTTP request after 8.8837ms - 401
+2024-11-14 21:19:03.344 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 10.8019ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:19:03.843 +07:00 [INF] HTTP GET /health responded 200 in 510.1491 ms
+2024-11-14 21:19:08.336 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:19:08.338 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:19:08.340 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0491 ms
+2024-11-14 21:19:08.342 +07:00 [INF] Received HTTP response headers after 2.3759ms - 401
+2024-11-14 21:19:08.344 +07:00 [INF] End processing HTTP request after 8.276ms - 401
+2024-11-14 21:19:08.345 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 9.9837ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:19:08.837 +07:00 [INF] HTTP GET /health responded 200 in 502.6007 ms
+2024-11-14 21:19:13.343 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:19:13.346 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:19:13.348 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0489 ms
+2024-11-14 21:19:13.350 +07:00 [INF] Received HTTP response headers after 2.7166ms - 401
+2024-11-14 21:19:13.351 +07:00 [INF] End processing HTTP request after 8.5378ms - 401
+2024-11-14 21:19:13.353 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 10.3517ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:19:13.851 +07:00 [INF] HTTP GET /health responded 200 in 508.1753 ms
+2024-11-14 21:19:18.339 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:19:18.342 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:19:18.344 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0854 ms
+2024-11-14 21:19:18.346 +07:00 [INF] Received HTTP response headers after 2.3612ms - 401
+2024-11-14 21:19:18.347 +07:00 [INF] End processing HTTP request after 7.9871ms - 401
+2024-11-14 21:19:18.349 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 9.5899ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:19:18.846 +07:00 [INF] HTTP GET /health responded 200 in 507.2008 ms
+2024-11-14 21:19:23.338 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:19:23.342 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:19:23.346 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0942 ms
+2024-11-14 21:19:23.348 +07:00 [INF] Received HTTP response headers after 3.9175ms - 401
+2024-11-14 21:19:23.352 +07:00 [INF] End processing HTTP request after 14.1461ms - 401
+2024-11-14 21:19:23.355 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 16.6819ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:19:23.845 +07:00 [INF] HTTP GET /health responded 200 in 507.7918 ms
+2024-11-14 21:19:24.750 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:19:24.754 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:19:24.759 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.1024 ms
+2024-11-14 21:19:24.763 +07:00 [INF] Received HTTP response headers after 6.5131ms - 401
+2024-11-14 21:19:24.764 +07:00 [INF] End processing HTTP request after 14.2364ms - 401
+2024-11-14 21:19:24.766 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 16.2076ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:19:25.253 +07:00 [INF] HTTP GET /health responded 200 in 502.9531 ms
+2024-11-14 21:19:29.764 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:19:29.766 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:19:29.768 +07:00 [INF] HTTP GET /api/Book responded 401 in 0.0896 ms
+2024-11-14 21:19:29.770 +07:00 [INF] Received HTTP response headers after 2.4574ms - 401
+2024-11-14 21:19:29.772 +07:00 [INF] End processing HTTP request after 7.8882ms - 401
+2024-11-14 21:19:29.774 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 9.9375ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:19:30.266 +07:00 [INF] HTTP GET /health responded 200 in 502.6625 ms
+2024-11-14 21:19:33.407 +07:00 [INF] HTTP GET /api/Book responded 200 in 10.9208 ms
+2024-11-14 21:19:33.414 +07:00 [INF] HTTP GET /api/Book responded 200 in 3.9916 ms
+2024-11-14 21:19:34.061 +07:00 [INF] HTTP GET /api/Book responded 200 in 9.2507 ms
+2024-11-14 21:19:34.069 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.9310 ms
+2024-11-14 21:19:37.287 +07:00 [INF] HTTP GET /api/Book responded 200 in 11.1299 ms
+2024-11-14 21:19:37.293 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.6583 ms
+2024-11-14 21:19:58.031 +07:00 [INF] HTTP POST /api/Book responded 400 in 54.9719 ms
+2024-11-14 21:19:58.041 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.4670 ms
+2024-11-14 21:20:05.792 +07:00 [INF] HTTP GET /api/Book responded 200 in 10.9837 ms
+2024-11-14 21:20:05.801 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.6790 ms
+2024-11-14 21:20:07.297 +07:00 [INF] HTTP GET /api/Book responded 200 in 2.9567 ms
+2024-11-14 21:20:07.332 +07:00 [INF] HTTP GET /api/Book responded 200 in 3.1894 ms
+2024-11-14 21:20:10.234 +07:00 [INF] HTTP GET /api/Book responded 200 in 3.6138 ms
+2024-11-14 21:20:10.245 +07:00 [INF] HTTP GET /api/Book responded 200 in 9.1876 ms
+2024-11-14 21:20:29.169 +07:00 [INF] HTTP GET /api/Book responded 200 in 12.1752 ms
+2024-11-14 21:20:29.179 +07:00 [INF] HTTP GET /api/Book responded 200 in 8.4124 ms
+2024-11-14 21:20:36.168 +07:00 [INF] HTTP POST /api/Book responded 400 in 2.6306 ms
+2024-11-14 21:20:36.178 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.0908 ms
+2024-11-14 21:20:42.760 +07:00 [INF] HTTP GET /api/Book responded 200 in 11.1179 ms
+2024-11-14 21:20:42.770 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.6627 ms
+2024-11-14 21:22:53.873 +07:00 [INF] HTTP GET /api/Book responded 200 in 13.6025 ms
+2024-11-14 21:22:53.881 +07:00 [INF] HTTP GET /api/Book responded 200 in 6.2823 ms
+2024-11-14 21:22:54.667 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.5624 ms
+2024-11-14 21:22:54.678 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.3944 ms
+2024-11-14 21:22:55.150 +07:00 [INF] HTTP GET /api/Book responded 200 in 9.8831 ms
+2024-11-14 21:22:55.161 +07:00 [INF] HTTP GET /api/Book responded 200 in 8.5578 ms
+2024-11-14 21:23:03.278 +07:00 [INF] HTTP POST /api/Book responded 400 in 1.7051 ms
+2024-11-14 21:23:03.293 +07:00 [INF] HTTP GET /api/Book responded 200 in 9.0004 ms
+2024-11-14 21:24:43.929 +07:00 [INF] HTTP POST /api/Book responded 400 in 34.8871 ms
+2024-11-14 21:28:28.475 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-11-14 21:28:29.953 +07:00 [INF] HTTP GET /api/Book responded 200 in 1399.7719 ms
+2024-11-14 21:30:53.917 +07:00 [INF] Start processing HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:30:53.927 +07:00 [INF] Sending HTTP request GET http://localhost:5084/api/Book
+2024-11-14 21:30:53.949 +07:00 [INF] HTTP GET /api/Book responded 401 in 5.2414 ms
+2024-11-14 21:30:53.955 +07:00 [INF] Received HTTP response headers after 22.6351ms - 401
+2024-11-14 21:30:53.960 +07:00 [INF] End processing HTTP request after 57.0733ms - 401
+2024-11-14 21:30:53.967 +07:00 [WRN] Health check ApiHealthCheck with status "Degraded" completed after 63.8228ms with message 'API returned status code Unauthorized.'
+2024-11-14 21:30:54.411 +07:00 [INF] HTTP GET /health responded 200 in 535.6784 ms

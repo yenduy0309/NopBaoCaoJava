@@ -1,0 +1,41 @@
+2024-11-21 08:40:16.800 +07:00 [ERR] Failed executing DbCommand (9ms) [Parameters=[], CommandType='"Text"', CommandTimeout='180']
+CREATE TABLE [Roles] (
+    [roleID] int NOT NULL IDENTITY,
+    [RoleName] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Roles] PRIMARY KEY ([roleID])
+);
+2024-11-21 08:42:04.555 +07:00 [ERR] Failed executing DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='180']
+CREATE TABLE [Roles] (
+    [roleID] int NOT NULL IDENTITY,
+    [RoleName] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Roles] PRIMARY KEY ([roleID])
+);
+2024-11-21 09:01:56.914 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-11-21 11:38:50.139 +07:00 [INF] HTTP POST /api/auth/login responded 401 in 228.0656 ms
+2024-11-21 11:38:58.289 +07:00 [INF] HTTP POST /api/auth/login responded 401 in 61.5238 ms
+2024-11-21 11:39:04.229 +07:00 [INF] HTTP POST /api/auth/login responded 401 in 11.7288 ms
+2024-11-21 11:43:13.201 +07:00 [INF] HTTP POST /api/auth/login responded 401 in 23448.0338 ms
+2024-11-21 11:43:29.557 +07:00 [INF] HTTP POST /api/auth/login responded 200 in 3084.0462 ms
+2024-11-21 11:43:57.032 +07:00 [INF] HTTP GET /api/Book responded 200 in 141.6137 ms
+2024-11-21 11:43:57.041 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.6206 ms
+2024-11-21 11:44:27.889 +07:00 [INF] HTTP GET /api/Book responded 200 in 6.8577 ms
+2024-11-21 11:44:27.900 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.1627 ms
+2024-11-21 11:45:08.926 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.1149 ms
+2024-11-21 11:45:08.935 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.6680 ms
+2024-11-21 11:45:33.033 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.7446 ms
+2024-11-21 11:45:33.044 +07:00 [INF] HTTP GET /api/Book responded 200 in 9.4576 ms
+2024-11-21 11:45:40.310 +07:00 [INF] HTTP GET /api/Book responded 200 in 4.6269 ms
+2024-11-21 11:45:40.317 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.0600 ms
+2024-11-21 11:45:45.352 +07:00 [INF] HTTP GET /api/Book responded 200 in 11.7369 ms
+2024-11-21 11:45:45.363 +07:00 [INF] HTTP GET /api/Book responded 200 in 7.8470 ms
+2024-11-21 11:45:47.613 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.7290 ms
+2024-11-21 11:45:47.625 +07:00 [INF] HTTP GET /api/Book responded 200 in 3.9669 ms
+2024-11-21 11:48:13.275 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.9572 ms
+2024-11-21 11:48:13.285 +07:00 [INF] HTTP GET /api/Book responded 200 in 6.2289 ms
+2024-11-21 11:48:58.236 +07:00 [INF] HTTP POST /api/auth/login responded 401 in 4.0218 ms
+2024-11-21 11:49:39.465 +07:00 [INF] HTTP POST /api/auth/login responded 401 in 9.5608 ms
+2024-11-21 11:50:09.462 +07:00 [INF] HTTP POST /api/auth/login responded 401 in 18789.6638 ms
+2024-11-21 11:50:24.378 +07:00 [INF] HTTP POST /api/auth/login responded 200 in 3767.1764 ms
+2024-11-21 11:50:45.072 +07:00 [INF] HTTP POST /api/auth/login responded 200 in 2.8035 ms
+2024-11-21 11:50:45.212 +07:00 [INF] HTTP GET /api/Book responded 200 in 9.4640 ms
+2024-11-21 11:50:45.219 +07:00 [INF] HTTP GET /api/Book responded 200 in 5.0468 ms

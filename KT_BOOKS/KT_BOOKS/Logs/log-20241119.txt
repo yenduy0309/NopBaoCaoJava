@@ -1,0 +1,6 @@
+2024-11-19 09:04:08.166 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-11-19 09:04:11.923 +07:00 [INF] HTTP POST /api/Auth/login responded 200 in 3660.1612 ms
+2024-11-19 09:04:22.408 +07:00 [INF] HTTP GET /api/Book responded 200 in 348.0857 ms
+2024-11-19 09:05:01.094 +07:00 [INF] HTTP POST /api/auth/login responded 200 in 33.9605 ms
+2024-11-19 09:05:03.752 +07:00 [INF] HTTP GET /api/Book responded 200 in 12.5288 ms
+2024-11-19 09:05:03.765 +07:00 [INF] HTTP GET /api/Book responded 200 in 9.2143 ms
